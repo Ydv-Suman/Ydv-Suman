@@ -1,8 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suman Yadav 
 
 Frontend Developer 🌍
+
 I'm based in Monroe, LA 
-✉️  You can contact me at [sumanydv615@gmail.com](mailto:sumanydv615@gmail.com)
+✉️ [sumanydv615@gmail.com](mailto:sumanydv615@gmail.com)
 ⚡  "This is not a bug. It’s an early version of world domination." 😏👨‍💻
 
 ### Skills  
