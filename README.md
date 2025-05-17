@@ -6,7 +6,7 @@ I'm based in Monroe, LA, USA
 
 ✉️ [sumanydv615@gmail.com](mailto:sumanydv615@gmail.com)
 
-⚡  "This is not a bug. It’s an early version of world domination." 😏👨‍💻
+Jarvis, why does this code only work on my machine?👽
 
 Skills  
 
