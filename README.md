@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Frontend Developer 🌍
 
-I'm based in Monroe, LA 
+I'm based in Monroe, LA, USA
 
 ✉️ [sumanydv615@gmail.com](mailto:sumanydv615@gmail.com)
 
