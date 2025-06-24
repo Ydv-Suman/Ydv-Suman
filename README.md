@@ -72,17 +72,14 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ydv-Suman&langs_count=8&layout=compact&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="Top Languages" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ydv-Suman&theme=tokyonight" alt="GitHub Profile Summary Card" />
     </td>
   </tr>
 </table>
-
 
 
 ---
