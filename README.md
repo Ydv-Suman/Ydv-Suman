@@ -1,57 +1,76 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Suman Yadav 
+<h1 align="center">Hi there 👋, I'm <span style="color:#0891b2">Suman Yadav</span></h1>
+<p align="center"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" /></p>
 
-Learnign Data Science👨‍💻
-
-I'm based in Monroe, LA, USA
-
-✉️ [sumanydv615@gmail.com](mailto:sumanydv615@gmail.com)
-
-Jarvis, why does this code only work on my machine?👽
-
-Skills  
-
-<p align="left"> 
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-    </a>
-    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
-    </a>
+<p align="center">
+  💡 Aspiring Data Scientist | Full-Stack Explorer | Code Artist 👨‍💻<br>
+  🌍 Based in Monroe, LA, USA<br>
+  📬 <a href="mailto:sumanydv615@gmail.com">sumanydv615@gmail.com</a><br>
+  🧠 “Jarvis, why does this code only work on my machine?” 👽
 </p>
 
+---
 
- 
-Socials  
+### 🚀 About Me
 
+I'm a tech enthusiast passionate about transforming data into real-world insights and scalable solutions. Currently diving deep into **Data Science**, **Machine Learning**, and **AI**, I’ve built a strong foundation in full-stack web development and algorithmic problem-solving.
 
-<p align="left"> <a href="https://discord.com/users/ydv__suman_10449" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/ydv.smn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Ydv-Suman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/idv__suman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/suman-ydv" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-Badges
+- 🧪 Currently learning: `Machine Learning`, `EDA`, `Model Evaluation`, `Data Visualization`
+- 🧰 Tech Stack: `Java`, `Python`, `JavaScript`, `React`, `SQL`, `HTML/CSS`
+- 📈 Keen interest in: Predictive Modeling, AI Systems, and Applied Data Engineering
+- 🛠️ Projects: [Heart Disease Prediction](https://github.com/Ydv-Suman/Heart-Disease-Project), [Bulldozer Price Prediction](https://github.com/Ydv-Suman/bulldozer-price-prediction), more on GitHub!
+- 🌱 Always learning, always building.
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Ydv-Suman"><img src="https://github-readme-stats.vercel.app/api?username=Ydv-Suman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ydv-Suman's GitHub stats" /></a>
-<a href="http://www.github.com/Ydv-Suman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ydv-Suman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
-/></a>
+### 🧰 My Toolkit
 
-<a href="https://github.com/Ydv-Suman" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ydv-Suman&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="36" alt="Java" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="36" alt="Python" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="36" alt="MySQL" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="36" alt="HTML5" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="36" alt="CSS3" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="36" alt="TailwindCSS" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" height="36" alt="Vite" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://discord.com/users/ydv__suman_10449" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="32" />
+  </a>
+  <a href="https://www.facebook.com/ydv.smn" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" height="32" />
+  </a>
+  <a href="https://www.github.com/Ydv-Suman" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="32" />
+  </a>
+  <a href="http://www.instagram.com/idv__suman" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/suman-ydv" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="32" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ydv-Suman&show_icons=true&count_private=true&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ydv-Suman&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ydv-Suman&langs_count=10&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="Top Languages" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> I don’t just debug my code — I debug my mindset.  
+> If it compiles, it ships. If it doesn't... well, that's why I drink coffee. ☕
