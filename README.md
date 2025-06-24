@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I'm a tech enthusiast passionate about transforming data into real-world insights and scalable solutions. Currently diving deep into **Data Science**, **Machine Learning**, and **AI**, I’ve built a strong foundation in full-stack web development and algorithmic problem-solving.
+I'm a tech enthusiast passionate about transforming data into real-world insights and scalable solutions. Currently diving deep into **Data Science**, **Machine Learning**, and **AI**, I’ve built a strong foundation in web development and algorithmic problem-solving.
 
 - 🧪 Currently learning: `Machine Learning`, `EDA`, `Model Evaluation`, `Data Visualization`
 - 🧰 Tech Stack: `Java`, `Python`, `JavaScript`, `React`, `SQL`, `HTML/CSS`
