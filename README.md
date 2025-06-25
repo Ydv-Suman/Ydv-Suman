@@ -86,5 +86,4 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 
 ### ⚡ Fun Fact
 
-> I don’t just debug my code — I debug my mindset.  
 > If it compiles, it ships. If it doesn't... well, that's why I drink coffee. ☕
