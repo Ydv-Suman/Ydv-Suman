@@ -84,6 +84,6 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fun Fact🤭
 
 > If it compiles, it ships. If it doesn't... well, that's why I drink coffee. ☕
