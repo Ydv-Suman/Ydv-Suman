@@ -24,7 +24,7 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 
 ### 🧰 My Toolkit
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="36" alt="Java" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="36" alt="Python" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" alt="JavaScript" />
@@ -40,7 +40,7 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 
 ### 🌐 Connect With Me
 
-<div align="center">
+<div align="left">
   <a href="https://discord.com/users/ydv__suman_10449" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="32" />
   </a>
