@@ -40,7 +40,7 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 
 ### 🌐 Connect With Me
 
-<div align="right">
+<div>
   <a href="https://discord.com/users/ydv__suman_10449" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="32" />
   </a>
