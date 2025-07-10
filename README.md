@@ -24,30 +24,39 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 
 ### 🧰 My Toolkit
 
-<table><tr>
-  <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="36" alt="Java" /></td>
-  <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="36" alt="Python" /></td>
-  <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" alt="JavaScript" /></td>
-  <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" alt="React" /></td>
-  <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="36" alt="MySQL" /></td>
-  <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="36" alt="HTML5" /></td>
-  <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="36" alt="CSS3" /></td>
-  <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="36" alt="TailwindCSS" /></td>
-  <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" height="36" alt="Vite" /></td>
-</tr></table>
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="36" alt="Java" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="36" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" alt="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="36" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="36" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="36" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="36" alt="TailwindCSS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" height="36" alt="Vite" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
 
-<table><tr>
-  <td><a href="https://discord.com/users/ydv__suman_10449"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="32" /></a></td>
-  <td><a href="https://www.facebook.com/ydv.smn"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" height="32" /></a></td>
-  <td><a href="https://www.github.com/Ydv-Suman"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="32" /></a></td>
-  <td><a href="http://www.instagram.com/idv__suman"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="32" /></a></td>
-  <td><a href="https://www.linkedin.com/in/suman-ydv"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="32" /></a></td>
-</tr></table>
+<div align="left">
+  <a href="https://discord.com/users/ydv__suman_10449" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="32" />
+  </a>
+  <a href="https://www.facebook.com/ydv.smn" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" height="32" />
+  </a>
+  <a href="https://www.github.com/Ydv-Suman" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="32" />
+  </a>
+  <a href="http://www.instagram.com/idv__suman" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/suman-ydv" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="32" />
+  </a>
+</div>
 
 ---
 
