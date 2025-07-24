@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#0891b2">Suman Yadav</span></h1>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" />
-</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" /></p>
 
 <p align="center">
   💡 Aspiring Data Scientist | Full-Stack Explorer | Code Artist 👨‍💻<br>
@@ -16,27 +14,28 @@
 
 I'm a tech enthusiast passionate about transforming data into real-world insights and scalable solutions. Currently diving deep into **Data Science**, **Machine Learning**, and **AI**, I’ve built a strong foundation in web development and algorithmic problem-solving.
 
-- 🧪 Currently learning: `Machine Learning`, `EDA`, `Model Evaluation`, `Data Visualization`
-- 🧰 Tech Stack: `Java`, `Python`, `JavaScript`, `React`, `SQL`, `HTML/CSS`
+- 🧪 Currently learning: Machine Learning, EDA, Model Evaluation, Data Visualization
+- 🧰 Tech Stack: Java, Python, JavaScript, React, SQL, HTML/CSS
 - 📈 Keen interest in: Predictive Modeling, AI Systems, and Applied Data Engineering
 - 🛠️ Projects: [Heart Disease Prediction](https://github.com/Ydv-Suman/Heart-Disease-Project), [Bulldozer Price Prediction](https://github.com/Ydv-Suman/bulldozer-price-prediction), more on GitHub!
 - 🌱 Always learning, always building.
 
+
 ---
+
 
 ### 🧰 My Toolkit
 
+
 <!-- Machine Learning & Data Science Tools -->
-<div align="left" style="margin-bottom: 12px;">
+<div>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" height="36" alt="Pandas" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" height="36" alt="NumPy" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" height="36" alt="Matplotlib" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" height="36" alt="Scikit-learn" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" height="36" alt="TensorFlow" style="margin-right: 10px;" />
-</div>
 
 <!-- Programming & Web Tech Skills -->
-<div align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="36" alt="Java" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="36" alt="Python" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" alt="JavaScript" style="margin-right: 10px;" />
@@ -47,6 +46,10 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="36" alt="TailwindCSS" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" height="36" alt="Vite" style="margin-right: 10px;" />
 </div>
+
+
+
+
 
 ---
 
@@ -77,15 +80,15 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ydv-Suman&show_icons=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="Suman's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Ydv-Suman&show_icons=true&count_private=true&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="Suman's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ydv-Suman&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&background=0f172a" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ydv-Suman&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ydv-Suman&langs_count=8&layout=compact&hide_border=true&bg_color=0f172a&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ydv-Suman&langs_count=8&layout=compact&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="Top Languages" />
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ydv-Suman&theme=tokyonight" alt="GitHub Profile Summary Card" />
@@ -95,7 +98,6 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 
 ---
 
-### ⚡ Fun Fact 🤭
+### ⚡ Fun Fact🤭
 
 > If it compiles, it ships. If it doesn't... well, that's why I drink coffee. ☕
-
