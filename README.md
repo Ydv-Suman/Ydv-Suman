@@ -24,18 +24,19 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 ---
 
 
+
+
 ### 🧰 My Toolkit
 
-
-<!-- Machine Learning & Data Science Tools -->
-<div>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" height="36" alt="Pandas" style="margin-right: 10px;" />
+<div align="left">
+  <!-- Data Science Tools (color-matched) -->
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg" height="36" alt="Scikit-learn" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow.svg" height="36" alt="TensorFlow" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" height="36" alt="Pandas" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" height="36" alt="NumPy" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" height="36" alt="Matplotlib" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" height="36" alt="Scikit-learn" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" height="36" alt="TensorFlow" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.svg" height="36" alt="Matplotlib" style="margin-right: 10px;" />
 
-<!-- Programming & Web Tech Skills -->
+  <!-- Programming & Web Tech Skills -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="36" alt="Java" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="36" alt="Python" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" alt="JavaScript" style="margin-right: 10px;" />
@@ -46,8 +47,6 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="36" alt="TailwindCSS" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" height="36" alt="Vite" style="margin-right: 10px;" />
 </div>
-
-
 
 
 
