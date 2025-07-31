@@ -24,11 +24,9 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 ---
 
 
-
-
 ### 🧰 My Toolkit
 
-<div align="left">
+<div align="right">
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg" height="36" alt="Scikit-learn" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow.svg" height="36" alt="TensorFlow" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" height="36" alt="Pandas" style="margin-right: 10px;" />
@@ -45,8 +43,6 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="36" alt="TailwindCSS" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" height="36" alt="Vite" style="margin-right: 10px;" />
 </div>
-
-
 
 ---
 
