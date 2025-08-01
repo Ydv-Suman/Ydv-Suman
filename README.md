@@ -26,45 +26,41 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 
 ### 🧰 My Toolkit
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg" height="36" alt="Scikit-learn" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow.svg" height="36" alt="TensorFlow" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" height="36" alt="Pandas" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" height="36" alt="NumPy" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.svg" height="36" alt="Matplotlib" style="margin-right: 10px;" />
+## 🚀 Data Science & Machine Learning
 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="36" alt="Java" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="36" alt="Python" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" alt="JavaScript" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" alt="React" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="36" alt="MySQL" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="36" alt="HTML5" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="36" alt="CSS3" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="36" alt="TailwindCSS" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" height="36" alt="Vite" style="margin-right: 10px;" />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-9A1E1E?style=for-the-badge&logo=seaborn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
-### 🌐 Connect With Me
+## 💻 Programming & Web Development
 
-<div align="left">
-  <a href="https://discord.com/users/ydv__suman_10449" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="32" />
-  </a>
-  <a href="https://www.facebook.com/ydv.smn" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" height="32" />
-  </a>
-  <a href="https://www.github.com/Ydv-Suman" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="32" />
-  </a>
-  <a href="http://www.instagram.com/idv__suman" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/suman-ydv" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="32" />
-  </a>
-</div>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+---
+
+
+## 🌐 Connect with Me
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ydv__suman_10449)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ydv.smn)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ydv-Suman)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/ydv__suman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-ydv)
+
 
 ---
 
