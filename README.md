@@ -15,7 +15,6 @@
 I'm a tech enthusiast passionate about transforming data into real-world insights and scalable solutions. Currently diving deep into **Data Science**, **Machine Learning**, and **AI**, I’ve built a strong foundation in web development and algorithmic problem-solving.
 
 - 🧪 Currently learning: Machine Learning, EDA, Model Evaluation, Data Visualization
-- 🧰 Tech Stack: Java, Python, JavaScript, React, SQL, HTML/CSS
 - 📈 Keen interest in: Predictive Modeling, AI Systems, and Applied Data Engineering
 - 🛠️ Projects: [Heart Disease Prediction](https://github.com/Ydv-Suman/Heart-Disease-Project), [Bulldozer Price Prediction](https://github.com/Ydv-Suman/bulldozer-price-prediction), more on GitHub!
 - 🌱 Always learning, always building.
@@ -56,7 +55,6 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ydv__suman_10449)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ydv.smn)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ydv-Suman)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/ydv__suman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-ydv)
 
