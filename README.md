@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#0891b2">Suman Yadav</span></h1>
 <p align="center"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" /></p>
+![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ydv__suman)
+
 
 <p align="center">
   💡 Aspiring Data Scientist | Full-Stack Explorer | Code Artist 👨‍💻<br>
