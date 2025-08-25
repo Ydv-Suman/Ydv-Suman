@@ -16,7 +16,6 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 
 - 🧪 Currently learning: Machine Learning, EDA, Model Evaluation, Data Visualization
 - 📈 Keen interest in: Predictive Modeling, AI Systems, and Applied Data Engineering
-- 🛠️ Projects: [Heart Disease Prediction](https://github.com/Ydv-Suman/Heart-Disease-Project), [Bulldozer Price Prediction](https://github.com/Ydv-Suman/bulldozer-price-prediction), more on GitHub!
 - 🌱 Always learning, always building.
 
 
