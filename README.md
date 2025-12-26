@@ -32,10 +32,6 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 ![Seaborn](https://img.shields.io/badge/Seaborn-9A1E1E?style=for-the-badge&logo=seaborn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![BM25](https://img.shields.io/badge/BM25-Retrieval-orange?style=for-the-badge)
-![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-Embeddings-blue?style=for-the-badge)
 
 ---
 
