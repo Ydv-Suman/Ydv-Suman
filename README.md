@@ -28,7 +28,6 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
----
 
 ## ☕ Backend Development
 
@@ -36,7 +35,6 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
----
 
 ## 🗄️ Databases & Caching
 
@@ -45,7 +43,6 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
----
 
 ## ☁️ DevOps & Infrastructure
 
@@ -53,7 +50,6 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 ## 📡 Messaging & Security
 
@@ -61,7 +57,6 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge&logo=oauth&logoColor=white)
 
----
 
 ## 👨‍💻 Web Development
 
@@ -70,7 +65,6 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
 
 ## 🤖 AI & Machine Learning
 
