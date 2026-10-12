@@ -1,18 +1,20 @@
 <h1 align="center"><span style="color:#0891b2">Suman Yadav</span></h1>
 
 <p align="center">
-  <br> Software Engineer | System Design | Code Artist <br>
+  <br> Software Engineer | Backend & Full-Stack Development | AI Applications <br>
 </p>
 
 ---
 
 ###  About Me
 
-I'm a tech enthusiast passionate about transforming data into real-world insights and scalable solutions. Currently diving deep into **Data Science**, **Machine Learning**, and **AI**, I've built a strong foundation in web development and algorithmic problem-solving.
+I'm a Computer Science student at the University of Louisiana at Monroe, graduating in May 2027. I build backend services, full-stack applications, and AI-powered tools using Java, Spring Boot, Python, FastAPI, and React.
 
--  Currently learning: Machine Learning, EDA, Model Evaluation, Data Visualization
--  Keen interest in: Predictive Modeling, AI Systems, and Applied Data Engineering
--  Always learning, always building.
+My projects span AI learning platforms, LLM reliability tools, and developer automation. I focus on designing clear APIs, working with databases, and turning ideas into deployed applications.
+
+- Currently exploring: Distributed systems, system design, and cloud infrastructure
+- Technical interests: Backend engineering, asynchronous processing, and practical AI integration
+- Open to: Spring 2027 internships and full-time software engineering roles starting after graduation
 
 ---
 
