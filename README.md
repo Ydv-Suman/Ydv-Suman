@@ -1,54 +1,54 @@
 <h1 align="center"><span style="color:#0891b2">Suman Yadav</span></h1>
 
 <p align="center">
-  💡 Aspiring Data Scientist | Full-Stack Explorer | Code Artist 👨‍💻<br>
+  <br> Software Engineer | System Design | Code Artist <br>
 </p>
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm a tech enthusiast passionate about transforming data into real-world insights and scalable solutions. Currently diving deep into **Data Science**, **Machine Learning**, and **AI**, I've built a strong foundation in web development and algorithmic problem-solving.
 
-- 🧪 Currently learning: Machine Learning, EDA, Model Evaluation, Data Visualization
-- 📈 Keen interest in: Predictive Modeling, AI Systems, and Applied Data Engineering
-- 🌱 Always learning, always building.
+-  Currently learning: Machine Learning, EDA, Model Evaluation, Data Visualization
+-  Keen interest in: Predictive Modeling, AI Systems, and Applied Data Engineering
+-  Always learning, always building.
 
 ---
 
-### 🧰 My Toolkit
+###   Toolkit
 
-## 💻 Languages & Markup
+##  Languages & Markup
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 
-## ☕ Backend Development
+##  Backend Development
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
 
-## 🗄️ Databases & Caching
+##  Databases & Caching
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
 
-## ☁️ DevOps & Infrastructure
+##  DevOps & Infrastructure
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 
-## 📡 Messaging & Security
+##  Messaging & Security
 
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/OAuth2-3C3C3D?style=flat-square&logo=oauth&logoColor=white">
 
-## 👨‍💻 Frontend Development
+##  Frontend Development
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/React Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
 
-## 🤖 AI & Machine Learning
+##  AI & Machine Learning
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/Seaborn-9A1E1E?style=flat-square"> <img src="https://img.shields.io/badge/RAG-6A5ACD?style=flat-square"> <img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square">
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <a href="mailto:sumanydv615@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">](https://www.facebook.com/ydv.smn)
@@ -58,7 +58,7 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 
 ---
 
-### 📊 GitHub Analytics & Activity
+###  GitHub Analytics & Activity
 
 <table>
   <tr>
@@ -75,7 +75,7 @@ I'm a tech enthusiast passionate about transforming data into real-world insight
 
 ---
 
-### ⚡ Fun Fact🤭
+###  Fun Fact
 
 > If it compiles, it ships. If it doesn't... well, that's why I drink coffee. ☕
 
